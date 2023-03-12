@@ -1,14 +1,15 @@
-TECNOLOGIAS USADAS:
+O que foi usado no projeto:
 
-Node.js
-React.js
-JavaScript
-Express
-Consumo de API's
+Back-End:
 
+- Node.js
+- Express
+- Cors
+- JavaScript
 
-Server sustenta a aplicação
-Web parte do front
+Front-End:
 
+- React
+- JavaScript
 
-cors -> controlar quem pode acessar a aplicação
+## cors -> controlar quem pode acessar a aplicação
