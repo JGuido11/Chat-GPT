@@ -12,4 +12,4 @@ Front-End:
 - React
 - JavaScript
 
-cors -> controlar quem pode acessar a aplicação
+## cors -> controlar quem pode acessar a aplicação
